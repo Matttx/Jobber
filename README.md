@@ -1,5 +1,5 @@
 # Jobber !
-Projet récupérant les offres de Pôle-emploi en fonction des filtres appliqués part l'utilisateur - Projet personnel en SwiftUI
+Projet récupérant les offres de Pôle-emploi en fonction des filtres appliqués par l'utilisateur - Projet personnel en SwiftUI
 
 ![Build Status](https://img.shields.io/badge/platform-iOS-white.svg)
 ![Version](https://img.shields.io/badge/OS-iOS_15.4-green.svg)
